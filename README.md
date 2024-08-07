@@ -4,7 +4,7 @@ Cool fire Animation
 
 ## Live site
 
-https://peter-kimanzi.github.io/Fire-Animation/
+https://cody06412.github.io/landingPage/
 
 ## Screenshot
 
